@@ -1,0 +1,39 @@
+
+*{
+    margin-top: 50px;
+    background-color: #1F7A8C;
+    color: #E1E5F2;
+    font-family: Verdana, sans-serif;
+}
+.button,h1,.input{
+    display: block;
+    text-align: center;
+}
+.button,.input{
+    margin: auto;
+    background-color: white;
+}
+.button{
+    width: 100px;
+    height: 30px;
+    background-color: #E1E5F2;
+    color:black
+}
+.button:hover{
+    background-color: #BFDBF7;
+}
+.input{
+    font-size:x-large;
+    width: 150px;
+    height: 50px;
+    background-color: #022B3A;
+
+}
+.header{
+    font-size: xx-large;
+    background-color:#022B3A;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
